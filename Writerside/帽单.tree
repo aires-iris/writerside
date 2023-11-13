@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="帽单"
+                 name="帽子反戴 单手炒菜"
+                 start-page="Java.md">
+
+    <toc-element topic="Java.md"/>
+    <toc-element topic="Spring.md">
+        <toc-element topic="Spring-Cloud.md">
+            <toc-element topic="SpringCloudFeign在异步接口执行的过程中传递请求头Token.md"/>
+            <toc-element topic="Seata-At模式分布式事务实践.md"/>
+        </toc-element>
+        <toc-element topic="Spring-Boot.md">
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Cloud-Native.md"/>
+</instance-profile>
